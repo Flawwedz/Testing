@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Mary Immaculate Parish Special School</title>
+</head>
+<body style="font-family: Arial; background-color: #eef2f3;">
+
+<!-- HEADER -->
+<div style="background-color: teal; color: white; padding: 15px;">
+<h1>Mary Immaculate Parish Special School</h1>
+<p>That all may be one</p>
+</div>
+
+<!-- NAVIGATION -->
+<div style="background-color: lightgray; padding: 10px;">
+<a href="#">About Us</a> |
+<a href="#programs">Programs</a> |
+<a href="#enroll">Enrollment</a>
+</div>
+
+<!-- HOME SECTION -->
+<div style="padding: 15px;">
+<h2>Welcome to Sunshine Academy!</h2>
+<p>We provide quality education and develop students' talents and skills.</p>
+</div>
+
+<!-- ABOUT SECTION -->
+<div id="about" style="background-color: white; padding: 15px;">
+<h2>About Our School</h2>
+<p>Sunshine Academy was founded in 2010. We focus on academic excellence and character formation.</
+
+<h3>School Hymn</h3>
+<audio controls>
+<source src="schoolhymn.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+<!-- PROGRAMS SECTION -->
+<div id="programs" style="padding: 15px;">
+<h2>Our Programs</h2>
+<ul>
+<li>Junior High School</li>
+<li>Senior High School</li>
+<li>Clubs and Organizations</li>
+</ul>
+</div>
+
+<!-- ENROLLMENT SECTION -->
+<div id="enroll" style="background-color: white; padding: 15px;">
+<h2>Student Enrollment Form</h2>
+Student Name:<br>
+<input type="text"><br><br>
+
+Grade Level:<br>
+<input type="radio" name="grade"> Grade 7<br>
+<input type="radio" name="grade"> Grade 8<br>
+<input type="radio" name="grade"> Grade 9<br><br>
+
+Choose Clubs:<br>
+<input type="checkbox"> Science Club<br>
+<input type="checkbox"> Music Club<br>
+<input type="checkbox"> Sports Club<br><br>
+
+<input type="submit" value="Enroll Now">
+</form>
+</div>
+
+<!-- FOOTER -->
+<div style="background-color: teal; color: white; text-align: center; padding: 10px;">
+<p>© 2026 Sunshine Academy | All Rights Reserved</p>
+</div>
+
+
+
