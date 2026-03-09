@@ -46,7 +46,7 @@
 
 <!-- ENROLLMENT SECTION -->
 <div id="enroll" style="background-color: white; padding: 15px;">
-<h2>Student Enrollment Form</h2>
+<h2>Student Enrollment Form</h2> <form>
 Student Name:<br>
 <input type="text"><br><br>
 
