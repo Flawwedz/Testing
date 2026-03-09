@@ -19,7 +19,7 @@
 
 <!-- HOME SECTION -->
 <div style="padding: 15px;">
-<h2>Welcome to Sunshine Academy!</h2>
+<h2>Welcome To Mary Immaculate Partish Special School !</h2>
 <p>We provide quality education and develop students' talents and skills.</p>
 </div>
 
@@ -46,7 +46,7 @@
 
 <!-- ENROLLMENT SECTION -->
 <div id="enroll" style="background-color: white; padding: 15px;">
-<h2>Student Enrollment Form</h2> <form>
+<h2>Student Enrollment Form</h2>
 Student Name:<br>
 <input type="text"><br><br>
 
@@ -68,6 +68,5 @@ Choose Clubs:<br>
 <div style="background-color: teal; color: white; text-align: center; padding: 10px;">
 <p>© 2026 Sunshine Academy | All Rights Reserved</p>
 </div>
-
 
 
